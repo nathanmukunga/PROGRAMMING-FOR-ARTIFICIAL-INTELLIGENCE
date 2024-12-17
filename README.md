@@ -1,0 +1,2 @@
+# A.I
+MinMax Algorithm
